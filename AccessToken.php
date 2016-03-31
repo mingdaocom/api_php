@@ -39,7 +39,7 @@ class AccessToken {
 	 *
 	 * @ignore
 	 */
-	public $host = "http://api.mingdao.com/";
+	public $host = "https://api.mingdao.com/";
 	/**
 	 * Set timeout default.
 	 *
